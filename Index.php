@@ -22,4 +22,5 @@
 </html>
 <?php 
 	echo 'taya paling keren';
+	echo 'gua makan bakso bareng echo';
 ?>
