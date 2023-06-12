@@ -118,4 +118,18 @@ a:hover{
   input[type=submit]:hover {
 	background-color: #45a049;
   }
+  AllCategories{
+	/* button.toggle-dropup */
+	width: 128.09px;
+	height: 32px;
+
+	background: #DAD8EE;
+	border-radius: 24px;
+
+	/* Inside auto layout */
+
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+  }
   
